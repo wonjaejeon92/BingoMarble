@@ -1,3 +1,3 @@
 #BingoMarble  
 ---  
-![bingo](../01.png)
+![bingo](./01.png)
