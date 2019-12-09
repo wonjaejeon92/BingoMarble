@@ -1,0 +1,108 @@
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\bin\Debug\Bingomarble.exe.config
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\bin\Debug\Bingomarble.exe
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\bin\Debug\Bingomarble.pdb
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.exe
+c:\users\414\documents\visual studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble2\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\COMPUTER\Documents\카카오톡 받은 파일\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\COMPUTER\Documents\Bingomarble3 - 보드,2인이동,말,땅정보\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble4\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble5\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-1\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Documents\Visual Studio 2015\Projects\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\bin\Debug\Bingomarble.exe.config
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.exe
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.pdb
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\bin\Debug\Bingomarble.exe
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\bin\Debug\Bingomarble.pdb
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.csprojResolveAssemblyReference.cache
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.Form1.resources
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.Properties.Resources.resources
+C:\Users\start\Pictures\Bingomarble6-2\Bingomarble\obj\Debug\Bingomarble.csproj.GenerateResource.Cache
